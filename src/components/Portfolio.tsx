@@ -208,7 +208,7 @@ const Portfolio = () => {
   onClick={() => {
     const link = document.createElement('a');
     link.href =
-      'https://drive.google.com/file/d/1zilWJT53bR3nRfWCdE7hBDNlmIlCeI5z/view?usp=sharing';
+      'https://drive.google.com/file/d/1FHdYCO3KmVGLjjnqDCGFbnzW6ra7C2Nj/view?usp=sharing';
     link.download = 'Vanshika_Dhawan_Resume.pdf';
     link.click();
   }}
